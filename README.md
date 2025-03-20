@@ -17,3 +17,8 @@ Egy egyszerű Plinko játék, amelyet Pythonban készítettem objektumorientált
 1. **Függőségek telepítése**:
    ```bash
    pip install pygame
+
+## Letöltés
+```bash
+   git clone https://github.com/Mofumimi/Plinko-Project.git
+   cd Plinko-Project
