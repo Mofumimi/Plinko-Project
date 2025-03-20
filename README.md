@@ -23,6 +23,6 @@ Egy egyszerű Plinko játék, amelyet Pythonban készítettem objektumorientált
    ```bash
    git clone https://github.com/Mofumimi/Plinko-Project.git
    cd Plinko-Project
-2. **Futtatás:
+2. **Futtatás**:
    ```bash
    python main.py
