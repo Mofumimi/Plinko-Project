@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Pygame](https://img.shields.io/badge/Pygame-2.1.3-green)](https://www.pygame.org/)
 
-<img src="Screenshots/Plinko_base.png" alt="Plinko Game" width="1600">
+<img src="Screenshots/Plinko_base.png" alt="Plinko Game">
 
 Egy egyszerű Plinko játék, amelyet Pythonban készítettem objektumorientált programozással (OOP) és a Pygame könyvtár segítségével. A játék célja, hogy a golyók ütközéseit és leesését valósághűen szimulálja, majd pontszámot számoljon a végén.
 
