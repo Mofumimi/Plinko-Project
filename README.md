@@ -13,13 +13,16 @@ Egy egyszerű Plinko játék, amelyet Pythonban készítettem objektumorientált
 - **Grafikus felület**: A Pygame könyvtárral készült interaktív megjelenítés.
 - **Pontszámítás**: A golyók leesési pozíciója alapján dinamikus pontszám kalkuláció.
 
-## Telepítés és Futtatás 🛠️
+## Telepítés 🛠️
 1. **Függőségek telepítése**:
    ```bash
    pip install pygame
 
-## Letöltés
-1. **Plinko.py Letöltése**:
+## Letöltés és Futtatás
+1. **Letöltése**:
    ```bash
    git clone https://github.com/Mofumimi/Plinko-Project.git
    cd Plinko-Project
+2. **Futtatás:
+   ```bash
+   python main.py
